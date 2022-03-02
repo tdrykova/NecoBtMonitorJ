@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BtMonitorJ</string>
+    <string name="title_item_name">Найденные устройства:</string>
 </resources>
